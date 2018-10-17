@@ -1,5 +1,6 @@
 {
   "extends": [
+    "airbnb-base",
     "plugin:flowtype/recommended",
     "standard"
   ],
@@ -12,6 +13,7 @@
     "mocha": true
   },
   "rules": {
-    "flowtype-errors/show-errors": "error"
+    "flowtype-errors/show-errors": "error",
+    "no-unused-vars": "warn"
   }
 }
