@@ -31,7 +31,3 @@ Clone my boilerplate and use it as clear boilerplate for your Node projects with
 **test:** use mjs-mocha & default chai modules for testing
 
 Also you can find additional scripts in the **package.json**
-
-## License
-
-MIT © [Dmitriy Ermakovich](https://github.com/tiranid99)
