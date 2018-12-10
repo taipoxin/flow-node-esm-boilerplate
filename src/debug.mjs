@@ -3,14 +3,14 @@
  * using .env file reading
  */
 
-import dotenv from 'dotenv'
-import makeDebug from 'debug'
+import dotenv from 'dotenv';
+import makeDebug from 'debug';
 
-dotenv.load()
+dotenv.load();
 
 if (process.env.DEBUG === '*') {
   // set debug enabled for whole project
-  makeDebug.enable('*')
+  makeDebug.enable('*');
 }
 
-export default makeDebug
+export default makeDebug;
