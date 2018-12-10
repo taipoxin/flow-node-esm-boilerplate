@@ -1,6 +1,6 @@
 # Flow-Node-ESM Boilerplate
 
-A boilerplate with Flow & Node native ESM modules & mjs-mocha & standard code style
+A boilerplate with Flow & Node native ESM modules & mjs-mocha & airbnb-base code style
 
 ## Usage
 
